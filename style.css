@@ -35,12 +35,12 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .img-content {
     width: 30%;
     height: 30%;
+    justity-content: center;
 }
 
 .container-footer {
@@ -48,7 +48,6 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .h1-footer {
